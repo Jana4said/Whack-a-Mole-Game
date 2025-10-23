@@ -5,13 +5,13 @@ This project was developed as part of my **COMP 1405 (Introduction to Computer S
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 Players must click on moles that appear randomly on the screen before they disappear.  
 The game tracks the score and increases difficulty as the speed of mole appearance rises.
 
 ---
 
-## ⚙️ Features
+## Features
 - Real-time rendering using Processing
 - Randomized mole positioning
 - Score tracking and performance feedback
@@ -20,7 +20,7 @@ The game tracks the score and increases difficulty as the speed of mole appearan
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 - **Java**
 - **Processing**
 - **OOP Principles (Encapsulation, Inheritance)**
@@ -28,14 +28,12 @@ The game tracks the score and increases difficulty as the speed of mole appearan
 
 ---
 
-## 🕹️ How to Run
+## How to Run
 1. Download and install [Processing IDE](https://processing.org/download).
 2. Open the file `Whack-a-Mole-Game.pde`.
 3. Press **Run ▶** to start the game.
 
 ---
-
-## 👩‍💻 Author
 **Gana Said**  
 Bachelor of Computer Science (AI Stream) – Carleton University  
 📧 [janasaid@cmail.carleton.ca](mailto:janasaid@cmail.carleton.ca)
